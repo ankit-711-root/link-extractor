@@ -9,7 +9,7 @@
 [![Manifest V3](https://img.shields.io/badge/Manifest-V3-blue.svg)](https://developer.chrome.com/docs/extensions/mv3/)
 [![Made by Ripper](https://img.shields.io/badge/Made%20by-Ripper-red.svg)](https://github.com/ripper)
 [![Version](https://img.shields.io/badge/Version-1.0.0-brightgreen.svg)]()
-[![Stars](https://img.shields.io/github/stars/ripper/link-extractor?style=social)](https://github.com/ripper/link-extractor)
+[![Stars](https://img.shields.io/github/stars/ankit-711-root/link-extractor?style=social)](https://github.com/ankit-711-root/link-extractor)
 
 <p align="center">
   <strong>Extract • Search • Filter • Export</strong>
