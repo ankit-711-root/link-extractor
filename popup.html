@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Link Extractor</title>
+  <link rel="stylesheet" href="popup.css">
+</head>
+<body>
+  <div class="container">
+    <header>
+      <h1>🔗 Link Extractor</h1>
+      <p class="subtitle" id="pageUrl">Loading...</p>
+    </header>
+
+    <div class="controls">
+      <div class="search-bar">
+        <input type="text" id="searchInput" placeholder="Search links..." />
+      </div>
+      <div class="button-group">
+        <button id="extractBtn" class="btn btn-primary">Extract Links</button>
+        <button id="copyAllBtn" class="btn btn-secondary" disabled>Copy All</button>
+        <button id="exportBtn" class="btn btn-secondary" disabled>Export CSV</button>
+      </div>
+      <div class="filters">
+        <label>
+          <input type="checkbox" id="filterInternal" checked> Internal
+        </label>
+        <label>
+          <input type="checkbox" id="filterExternal" checked> External
+        </label>
+        <label>
+          <input type="checkbox" id="uniqueOnly" checked> Unique Only
+        </label>
+      </div>
+    </div>
+
+    <div class="stats" id="stats">
+      <span id="totalCount">Total: 0</span>
+      <span id="internalCount">Internal: 0</span>
+      <span id="externalCount">External: 0</span>
+    </div>
+
+    <div id="loading" class="loading hidden">
+      <div class="spinner"></div>
+      <p>Extracting links...</p>
+    </div>
+
+    <div id="linksList" class="links-list">
+      <p class="placeholder">Click "Extract Links" to get started</p>
+    </div>
+
+    <!-- YOUR BRANDING -->
+    <footer class="footer">
+      <p>Made with ❤️ by <a href="https://github.com/ankit-711-root" target="_blank">Ripper</a></p>
+    </footer>
+  </div>
+
+  <script src="popup.js"></script>
+</body>
+</html>
