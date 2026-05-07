@@ -7,7 +7,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Chrome Extension](https://img.shields.io/badge/Platform-Chrome-green.svg)](https://www.google.com/chrome/)
 [![Manifest V3](https://img.shields.io/badge/Manifest-V3-blue.svg)](https://developer.chrome.com/docs/extensions/mv3/)
-[![Made by Ripper](https://img.shields.io/badge/Made%20by-Ripper-red.svg)](https://github.com/ripper)
+[![Made by Ankit](https://img.shields.io/badge/Made%20by-Ripper-red.svg)](https://github.com/ankit)
 [![Version](https://img.shields.io/badge/Version-1.0.0-brightgreen.svg)]()
 [![Stars](https://img.shields.io/github/stars/ankit-711-root/link-extractor?style=social)](https://github.com/ankit-711-root/link-extractor)
 
@@ -35,9 +35,6 @@
 - [Installation](#-installation)
 - [How to Use](#-how-to-use)
 - [Tech Stack](#-tech-stack)
-- [Project Structure](#-project-structure)
-- [Permissions Explained](#-permissions-explained)
-- [Contributing](#-contributing)
 - [License](#-license)
 - [Author](#-author)
 
@@ -91,12 +88,9 @@
 
 Open Chrome and navigate to:
 
-javascript
-Run Code
-
-Copy code
+```text
 chrome://extensions/
-
+```
 
 Enable Developer Mode (toggle in the top-right corner)
 
@@ -105,3 +99,65 @@ Click "Load unpacked"
 Select the link-extractor folder you downloaded
 
 ✅ The extension icon will appear in your toolbar!
+
+---
+
+## 📖 How to Use
+
+1. Open any website in Chrome
+2. Click the **Link Extractor** extension icon
+3. Press the **Extract Links** button
+4. View all extracted links instantly
+5. Use:
+   - 🔍 Search bar to find links
+   - 🎛️ Filters for Internal/External links
+   - 📋 Copy buttons to copy links
+   - 📤 Export button to save links as CSV
+
+---
+
+## 🛠️ Tech Stack
+
+| Technology | Usage |
+|------------|------|
+| HTML5 | Structure |
+| CSS3 | Styling & UI |
+| JavaScript | Extension Logic |
+| Chrome Extension API | Browser Integration |
+| Manifest V3 | Chrome Extension Architecture |
+
+---
+
+## 📄 License
+
+This project is licensed under the **MIT License**.
+
+You are free to use, modify, and distribute this project.
+
+See the [LICENSE](LICENSE) file for more details.
+
+---
+
+## 👨‍💻 Author
+
+### Ankit Kumar Paswan
+
+- 🎓 Cyber Security Student & Pentester
+- 🛡️ Security Researcher
+- 💻 Developer & Open Source Enthusiast
+
+#### Connect with Me
+
+- GitHub: https://github.com/ankit-711-root
+- LinkedIn: [https://linkedin.com/in/YOUR-LINKEDIN](https://www.linkedin.com/in/ankit-kumar-paswan-b57667274/)
+- Email: contact.ankitpaswan@gmail.com
+
+---
+
+<div align="center">
+
+### ⭐ If you like this project, give it a star on GitHub!
+
+Made with ❤️ by Ankit Kumar Paswan
+
+</div>
