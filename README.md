@@ -81,22 +81,23 @@
 
 1. **Download** this repository
 
-   ```bash
-   git clone https://github.com/ankit-711-root/link-extractor.git
+```bash
+git clone https://github.com/ankit-711-root/link-extractor.git
+```
 
-   OR click the green Code button → Download ZIP → Extract it
+OR click the green **Code** button → **Download ZIP** → Extract it
 
-Open Chrome and navigate to:
+2. Open Chrome and navigate to:
 
 ```text
 chrome://extensions/
 ```
 
-Enable Developer Mode (toggle in the top-right corner)
+3. Enable **Developer Mode** (toggle in the top-right corner)
 
-Click "Load unpacked"
+4. Click **Load unpacked**
 
-Select the link-extractor folder you downloaded
+5. Select the `link-extractor` folder you downloaded
 
 ✅ The extension icon will appear in your toolbar!
 
