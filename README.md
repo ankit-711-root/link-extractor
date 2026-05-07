@@ -34,9 +34,9 @@
 - [Screenshots](#-screenshots)
 - [Installation](#-installation)
 - [How to Use](#-how-to-use)
-- [Tech Stack](#-tech-stack)
+- [Tech Stack](#tech-stack)
 - [License](#-license)
-- [Author](#-author)
+- [Author](#author)
 
 ---
 
@@ -117,7 +117,7 @@ chrome://extensions/
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Technology | Usage |
 |------------|------|
@@ -139,7 +139,7 @@ See the [LICENSE](LICENSE) file for more details.
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 ### Ankit Kumar Paswan
 
