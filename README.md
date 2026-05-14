@@ -150,7 +150,7 @@ See the [LICENSE](LICENSE) file for more details.
 #### Connect with Me
 
 - GitHub: https://github.com/ankit-711-root
-- LinkedIn: [https://linkedin.com/in/YOUR-LINKEDIN](https://www.linkedin.com/in/ankit-kumar-paswan-b57667274/)
+- LinkedIn: https://www.linkedin.com/in/ankit-kumar-paswan-b57667274/
 - Email: contact.ankitpaswan@gmail.com
 
 ---
